@@ -1,3 +1,4 @@
+#!/bin/sh
 cd ..; make lem-ocaml; cd tester
 rm -rf lem
 mkdir lem
